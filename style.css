@@ -1,0 +1,408 @@
+@media screen and (min-width:400px) and (max-width: 599px){
+    .blokkviz{
+        float:left;
+        width: 300px;
+        height: 300px;
+        margin-top: 30px;
+        margin-left: 50px;
+        margin-right: 50px;
+        text-align: center;
+    }
+    .grupa{
+        height: 1100px;
+    }
+    #logo{
+        display: none; 
+    }
+    #prvikviz{
+        position:absolute;
+        left: 170px;
+        top: 450px;   
+    }
+    #drugikviz{
+        position: absolute;
+        top:780px;
+        left: 170px;
+    }
+    #trecikviz{
+        position: absolute;
+        top:1110px;
+        left: 170px;
+    }
+    #cetvrtikviz{
+        position:absolute;
+        left: 170px;
+        top: 1551px;   
+    }
+    #petikviz{
+        position: absolute;
+        left: 170px;
+        top:1881px;
+    }
+    #sestikviz{
+        position: absolute; 
+        left: 170px;
+        top:2211px;
+    }
+}
+
+@media screen and (min-width:600px) and (max-width: 799px){
+    .blokkviz{
+        float:left;
+        width: 300px;
+        height: 300px;
+        margin-top: 30px;
+        margin-left: 150px;
+        margin-right: 150px;
+        text-align: center;
+    }
+    .grupa{
+        height: 1100px;
+    }
+    #prvikviz{
+        position:absolute;
+        left: 370px;
+        top: 455px;   
+    }
+    #drugikviz{
+        position: absolute;
+        top:785px;
+        left: 370px;
+    }
+    #trecikviz{
+        position: absolute;
+        top:1115px;
+        left: 370px;
+    }
+    #cetvrtikviz{
+        position:absolute;
+        left: 370px;
+        top: 1551px;   
+    }
+    #petikviz{
+        position: absolute;
+        left: 370px;
+        top:1881px;
+    }
+    #sestikviz{
+        position: absolute; 
+        left: 370px;
+        top:2211px;
+    }
+}
+
+@media screen and (min-width:800px) and (max-width: 999px){
+    .blokkviz{
+        float:left;
+        width: 300px;
+        height: 300px;
+        margin-top: 30px;
+        margin-left: 250px;
+        margin-right: 250px;
+        text-align: center;
+    }
+    .grupa{
+        height: 1200px;
+    }
+    #prvikviz{
+        position:absolute;
+        left: 470px;
+        top: 460px;   
+    }
+    #drugikviz{
+        position: absolute;
+        top:790px;
+        left: 470px;
+    }
+    #trecikviz{
+        position: absolute;
+        top:1120px;
+        left: 470px;
+    }
+    #cetvrtikviz{
+        position:absolute;
+        left: 470px;
+        top: 1660px;   
+    }
+    #petikviz{
+        position: absolute;
+        left: 470px;
+        top:1990px;
+    }
+    #sestikviz{
+        position: absolute; 
+        left: 470px;
+        top:2320px;
+    }
+    .odgovori{
+        margin-left: 0px;
+    }
+    label {
+        white-space:nowrap;
+    }
+}
+
+@media screen and (min-width: 1000px)and (max-width: 1199px){
+    .blokkviz{
+        float:left;
+        width: 300px;
+        height: 300px;
+        margin-top: 30px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .grupa{
+        height: 500px;
+    }
+    #prvikviz{
+        position:absolute;
+        left: 235px;
+        top: 463px;   
+    }
+    #drugikviz{
+        position: absolute;
+        top:463px;
+        left: 565px;
+    }
+    #trecikviz{
+        position: absolute;
+        top:463px;
+        left: 895px;
+    }
+    #cetvrtikviz{
+        position:absolute;
+        left: 235px;
+        top: 964px;   
+    }
+    #petikviz{
+        position: absolute;
+        left: 565px;
+        top:964px;
+    }
+    #sestikviz{
+        position: absolute; 
+        left: 895px;
+        top:964px;
+    }
+}
+
+@media screen and (min-width: 1200px)and (max-width: 1399px){
+    .blokkviz{
+        float:left;
+        width: 300px;
+        height: 300px;
+        margin-top: 30px;
+        margin-left: 49px;
+        margin-right: 49px;
+    }
+    .grupa{
+        height: 500px;
+    }
+    #prvikviz{
+        position:absolute;
+        left: 265px;
+        top: 465px;   
+    }
+    #drugikviz{
+        position: absolute;
+        top: 465px;
+        left: 665px;
+    }
+    #trecikviz{
+        position: absolute;
+        top:465px;
+        left: 1065px;
+    }
+    #cetvrtikviz{
+        position:absolute;
+        left: 265px;
+        top: 965px;   
+    }
+    #petikviz{
+        position: absolute;
+        left: 664px;
+        top:965px;
+    }
+    #sestikviz{
+        position: absolute; 
+        left: 1064px;
+        top:965px;
+    }
+}
+
+@media screen and (min-width: 1400px) and (max-width: 1865px) {
+    .blokkviz{
+        float:left;
+        width: 300px;
+        height: 300px;
+        margin-top: 30px;
+        margin-left: 82px;
+        margin-right: 82px;
+    }
+    .grupa{
+        height: 500px;
+    }
+    #prvikviz{
+        position:absolute;
+        left: 302px;
+        top: 465px;   
+    }
+    #drugikviz{
+        position: absolute;
+        top: 465px;
+        left: 766px;
+    }
+    #trecikviz{
+        position: absolute;
+        top:465px;
+        left: 1230px;
+    }
+    #cetvrtikviz{
+        position:absolute;
+        left: 302px;
+        top: 965px;   
+    }
+    #petikviz{
+        position: absolute;
+        left: 767px;
+        top:965px;
+    }
+    #sestikviz{
+        position: absolute; 
+        left: 1231px;
+        top:965px;
+    }
+}
+
+@media screen and (min-width: 1866px){
+    .blokkviz{
+        float:left;
+        width: 300px;
+        height: 300px;
+        margin-top: 30px;
+        margin-left: 160px;
+        margin-right: 160px;
+    }
+    .grupa{
+        height: 500px;
+    }
+    #prvikviz{
+        position:absolute;
+        left: 382px;
+        top: 466px;   
+    }
+    #drugikviz{
+        position: absolute;
+        left: 1002px;
+        top:466px;
+    }
+    #trecikviz{
+        position: absolute; 
+        left: 1622px;
+        top:466px;
+    }
+    #cetvrtikviz{
+        position:absolute;
+        left: 382px;
+        top: 967px;   
+    }
+    #petikviz{
+        position: absolute;
+        left: 1002px;
+        top: 967px;
+    }
+    #sestikviz{
+        position: absolute; 
+        left: 1622px;
+        top:967px;
+    }
+}
+ 
+.blokkviz{
+    display: block;
+        border: 2px solid black;
+        padding: 5px 10px;
+        background-color: rgb(226, 224, 224);
+}
+#prvi{
+    background-color: rgb(250, 221, 26);
+    height: 90px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+    padding-top: 15px;
+    color:white;
+    text-shadow: 2px 2px #000000;
+}
+
+.telo{
+    background-color: lightblue;
+}
+
+#logo{ 
+	position:absolute; 
+	top:0; 
+	left:0; 
+    height:80px 
+}
+
+
+
+h2{
+    text-align: center;
+}
+
+h1{
+    margin: 15px;
+    margin-top: 60px;
+}
+
+.grupa{
+    border: 3px solid black;
+}
+
+.zapocni{
+    background-color: rgb(24, 141, 219);
+    color:white;
+    font-weight: bold;
+}
+
+.pitanja{
+    margin-left: 300px;
+    line-height: 27px;
+    margin-top: 50px;
+    margin-right: 150px;
+}
+
+.povratakNaPocetak{
+    position: relative;
+    left: 5px;
+    top: 5px;
+    border: 2px solid gray;
+}
+input[type="radio"]{
+    margin: 10px;
+}
+.predaj{
+    margin-bottom: 110px;
+    margin-top: 30px;
+    margin-left: 12px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(24, 141, 219);
+    color:white;
+    border: 3px solid rgb(24, 141, 219);
+}
+
+.naslovGrupe{
+    margin: 15px;
+    color:white;
+    text-shadow:  3px 3px #464545;
+}
+
+.predaj:hover{
+    color:red;
+}
+.zapocni:active{
+    color:greenyellow;
+}
